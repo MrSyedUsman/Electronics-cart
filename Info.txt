@@ -1,0 +1,12 @@
+Functions, Lists (appending, removal), Random budget selection on each run and budget (deduction/increment - based on buying/removing items) are the key practice of this project.
+-----------------------------------------------------
+
+Code starts with "Main Menu" with options (With numbers as selections):
+Show available items,
+Buy/Remove items,
+Show Cart List,
+Exit
+
+If you choose the 2nd option there's will be another sub-menu asking for which items you want to buy and an option to return/remove an item as well. (With numbers as selections as well)
+
+You can jump between the main menu and sub-menu easily by selecting "main menu" and can exit when done.
